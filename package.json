@@ -1,0 +1,23 @@
+{
+  "name": "quiz-poll",
+  "version": "1.0.0",
+  "description": "Quiz/Poll site (MERN)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyPranav/Quiz-Poll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PyPranav/Quiz-Poll/issues"
+  },
+  "homepage": "https://github.com/PyPranav/Quiz-Poll#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  }
+}
